@@ -263,8 +263,4 @@ pydantic
 - The free Groq API tier has rate limits (sufficient for personal and demo use)
 - Currently supports one document at a time
 
----
 
-## Architecture Decisions
-
-See [CHANGELOG.md](CHANGELOG.md) for a full explanation of what was changed from the original classic RAG implementation and why each decision was made.
