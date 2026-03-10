@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # DocuChat - Agentic RAG Document Q&A System
 
 A document Q&A system built on **Agentic RAG** — an AI agent that decides whether to retrieve information, grades the quality of what it retrieves, rewrites failed queries, and verifies its own answers before responding. Powered by LangGraph, LangChain, Groq's LLaMA 3.3 70B, and ChromaDB.
